@@ -1,0 +1,44 @@
+@mixin flex-jc($justify) {
+  display: flex;
+  justify-content: $justify;
+  align-items: center;
+}
+
+@mixin myButton {
+  color: $color-light;
+  background-color: $color-primary;
+  text-decoration: none;
+  border-radius: 10px;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+
+  &:hover {
+    background-color: $color-secondary-light;
+    color: black;
+  }
+}
+
+@mixin myButtont {
+  color: #f6f7eb;
+  background-color: $color-secondary-light;
+  text-decoration: none;
+  border-radius: 10px;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+
+  &:hover {
+    background-color: $color-third;
+    color: black;
+  }
+}
+
+@mixin myButtontt {
+  color: black;
+  background-color: $color-third;
+  text-decoration: none;
+
+  &:hover {
+    background-color: black;
+    color: #f6f7eb;
+  }
+}

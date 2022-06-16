@@ -1,0 +1,12 @@
+.nav__bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background-color: #393e41;
+
+  &--title {
+    position: relative;
+    top: 2px;
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Apple Watch Series 7 GPS, 45mm Blue Aluminium Case",
+    "precio": 300,
+    "imagenP": "https://www.pcfactory.cl/public/foto/43910/1.jpg?t=1647479413"
+  },
+
+  {
+    "id": 2,
+    "nombre": "Audífono Gamer PRO X edición League of Legends",
+    "precio": 200,
+    "imagenP": "https://www.pcfactory.cl/public/foto/44384/1.jpg?t=1647473536"
+  },
+
+  {
+    "id": 3,
+    "nombre": "Audífonos Monitoreo ATH-M30X Audio-Technica Negro",
+    "precio": 100,
+    "imagenP": "https://www.pcfactory.cl/public/foto/43873/1.jpg?t=1647480049"
+  },
+
+  {
+    "id": 4,
+    "nombre": "Silla Gamer Omilen V2 Black/Blue (Despacho gratis)",
+    "precio": 400,
+    "imagenP": "https://www.pcfactory.cl/public/foto/39567/1.jpg?t=1631044608"
+  }
+]
